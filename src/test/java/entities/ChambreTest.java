@@ -14,7 +14,7 @@ public class ChambreTest extends TestCase {
     }
 
     public void testReserver() throws Exception {
-    }D
+    }
 
     public void testAnnulerReservation() throws Exception {
     }
